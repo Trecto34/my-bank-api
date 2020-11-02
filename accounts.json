@@ -1,0 +1,20 @@
+{
+  "nextId": 5,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Fred Hector",
+      "balance": 200
+    },
+    {
+      "id": 3,
+      "name": "Eloa de Jesus",
+      "balance": 4327.8
+    },
+    {
+      "id": 4,
+      "name": "Noah Sales",
+      "balance": 50.25
+    }
+  ]
+}
