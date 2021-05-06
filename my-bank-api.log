@@ -1,8 +1,0 @@
-2020-11-02T18:29:00.913Z [my-bank-api] info: Api started
-2020-11-02T18:32:34.457Z [my-bank-api] info: POST /account - {"id":1,"name":"Fred Hector","balance":200}
-2020-11-02T18:34:25.344Z [my-bank-api] info: POST /account - {"id":2,"name":"Amanda Monteiro","balance":23454.55}
-2020-11-02T18:34:48.151Z [my-bank-api] info: POST /account - {"id":3,"name":"Eloa de Jesus","balance":4327.8}
-2020-11-02T18:35:12.765Z [my-bank-api] info: POST /account - {"id":4,"name":"Noah Alves","balance":50.25}
-2020-11-02T18:40:28.786Z [my-bank-api] info: Api started
-2020-11-02T18:40:32.097Z [my-bank-api] info: PUT /account - {"id":4,"name":"Noah Sales","balance":50.25}
-2020-11-02T18:41:16.569Z [my-bank-api] info: DELETE /account/2
